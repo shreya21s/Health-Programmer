@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+record_store.txt
+.DS_Store
